@@ -1,6 +1,6 @@
 # Harris Corner Detection and SIFT Feature Classification
-@author Anthony (Tony) Poerio
-@email adp59@pitt.edu
+@author Anthony (Tony) Poerio  
+@email adp59@pitt.edu  
 
 ## Notes
 - Harris Corner Detection Algorithm is found in 'extract_keypoints.m', keypoints are extracted based on 'cornerness'
